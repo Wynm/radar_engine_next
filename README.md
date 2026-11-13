@@ -24,3 +24,25 @@ python -m unittest discover -s tests -v
 ```
 
 See the relevant implementation and workflow for the exact environment variables and deployment instructions.
+
+
+**//**
+# Autonomous Tech Radar
+
+Technology opportunity discovery with three complementary implementations:
+
+- **Production single-file engine** — `radar_engine.py`, standard library only; bounded GitHub, Hacker News and Hugging Face collection, optional Gemini analysis, reports, persistent memory, Telegram notifications, weekly synthesis. Generated/downloaded code is never executed.
+- **Professional modular edition** — `python -m radar [normal|full|weekly]`; package under `radar/` with configuration, sources, security review, analysis, reporting and orchestration separated for maintainability.
+- **Fast edition** — `python radar_engine_fast.py`; bounded GitHub-only scan and Markdown output, no LLM call or notification request.
+
+## Run
+
+Python 3.11+; no third-party packages are needed.
+
+```bash
+python radar_engine.py normal
+python radar_engine.py full
+python radar_engine.py weekly
+python -m radar normal
+python radar_engine_fast.py
+python -m unittest discover -s tests -v
