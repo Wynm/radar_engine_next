@@ -15,9 +15,12 @@ class RadarTests(unittest.TestCase):
         self.assertFalse(radar_engine.is_noise("workflow automation"))
 
     def test_security_result_is_not_a_certification(self):
-        self.assertIn("eval", radar_engine.security_review("eval(user_input)"))
-        self.assertIn("not a safety guarantee", radar_engine.security_review("normal text"))
-        self.assertIn("not a safety guarantee", review("normal text"))
+    result = radar_engine.security_review("eval(user_input)")
+    self.assertIn("dynamic code execution", result)
+
+    clean_result = radar_engine.security_review("normal text")
+    self.assertIn("not a safety guarantee", clean_result)
+    self.assertIn("not a safety guarantee", review("normal text"))
 
     def test_legacy_memory_round_trip(self):
         with tempfile.TemporaryDirectory() as tmp:
