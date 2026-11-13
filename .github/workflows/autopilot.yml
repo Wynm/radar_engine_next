@@ -14,21 +14,18 @@ on:
         type: choice
         options: [normal, full, weekly]
 
-permissions:
-  contents: write
-
-concurrency:
-  group: radar-${{ github.ref }}
-  cancel-in-progress: false
-
 jobs:
   test:
+    permissions:
+      contents: read
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+
       - name: Compile and run unit tests
         run: |
           python -m py_compile radar_engine.py radar_engine_fast.py radar/*.py
@@ -36,15 +33,19 @@ jobs:
 
   run-radar:
     needs: test
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
         with:
           persist-credentials: true
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+
       - name: Select mode and run
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
@@ -60,11 +61,13 @@ jobs:
             mode="${INPUT_MODE:-normal}"
           fi
           python radar_engine.py "$mode"
+
       - name: Commit state and reports
         run: |
           git config user.name "TechRadar Bot"
           git config user.email "techradar-bot@users.noreply.github.com"
-          git add memory.json reports/ assets/
+          mkdir -p reports assets
+          git add -A -- memory.json reports/ assets/
           if ! git diff --cached --quiet; then
             git commit -m "chore: update radar state and reports"
             git push
