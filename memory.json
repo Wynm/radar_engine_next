@@ -145,5 +145,47 @@
     "first_seen": "2026-11-14T22:12:06.256061+00:00",
     "last_seen": "2026-11-14T22:12:06.256061+00:00",
     "breakout_alerted": false
+  },
+  "gh_1458091044": {
+    "title": "topapothecarycanal/ai--manus2.0",
+    "stars": 666,
+    "first_seen": "2026-11-15T05:52:24.884716+00:00",
+    "last_seen": "2026-11-15T05:52:24.884716+00:00",
+    "breakout_alerted": false
+  },
+  "gh_1457686240": {
+    "title": "DaggerRuthlesscrystal981/dat-metadata-standard-resp",
+    "stars": 50,
+    "first_seen": "2026-11-15T05:52:24.884716+00:00",
+    "last_seen": "2026-11-15T05:52:24.884716+00:00",
+    "breakout_alerted": false
+  },
+  "gh_1454407753": {
+    "title": "zacharias80/Polymarket-Prediction-Bot",
+    "stars": 92,
+    "first_seen": "2026-11-15T05:52:24.884716+00:00",
+    "last_seen": "2026-11-15T05:52:24.884716+00:00",
+    "breakout_alerted": false
+  },
+  "hn_50453901": {
+    "title": "Seagate's new hybrid drive raises some old questions",
+    "stars": 90,
+    "first_seen": "2026-11-15T05:52:24.884716+00:00",
+    "last_seen": "2026-11-15T05:52:24.884716+00:00",
+    "breakout_alerted": false
+  },
+  "ph_b927fd5f234e": {
+    "title": "MAP & GO!",
+    "stars": 0,
+    "first_seen": "2026-11-15T05:52:24.884716+00:00",
+    "last_seen": "2026-11-15T05:52:24.884716+00:00",
+    "breakout_alerted": false
+  },
+  "hf_2611.08318": {
+    "title": "Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement",
+    "stars": 20,
+    "first_seen": "2026-11-15T05:52:24.884716+00:00",
+    "last_seen": "2026-11-15T05:52:24.884716+00:00",
+    "breakout_alerted": false
   }
 }
