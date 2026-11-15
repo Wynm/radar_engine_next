@@ -215,5 +215,33 @@
     "first_seen": "2026-11-15T13:46:14.061581+00:00",
     "last_seen": "2026-11-15T13:46:14.061581+00:00",
     "breakout_alerted": false
+  },
+  "gh_1455416555": {
+    "title": "hitkeeen/blender-ai-mcp-addon",
+    "stars": 890,
+    "first_seen": "2026-11-15T22:41:08.580013+00:00",
+    "last_seen": "2026-11-15T22:41:08.580013+00:00",
+    "breakout_alerted": false
+  },
+  "gh_1450112320": {
+    "title": "TerminusPotter/quant-trading-bot",
+    "stars": 75,
+    "first_seen": "2026-11-15T22:41:08.580013+00:00",
+    "last_seen": "2026-11-15T22:41:08.580013+00:00",
+    "breakout_alerted": false
+  },
+  "hn_50509308": {
+    "title": "A short explainer on how El Niño works [video]",
+    "stars": 126,
+    "first_seen": "2026-11-15T22:41:08.580013+00:00",
+    "last_seen": "2026-11-15T22:41:08.580013+00:00",
+    "breakout_alerted": false
+  },
+  "ph_d80acc9cff4a": {
+    "title": "Frevana Multiplayer",
+    "stars": 0,
+    "first_seen": "2026-11-15T22:41:08.580013+00:00",
+    "last_seen": "2026-11-15T22:41:08.580013+00:00",
+    "breakout_alerted": false
   }
 }
