@@ -243,5 +243,40 @@
     "first_seen": "2026-11-15T22:41:08.580013+00:00",
     "last_seen": "2026-11-15T22:41:08.580013+00:00",
     "breakout_alerted": false
+  },
+  "gh_1455742253": {
+    "title": "credoksopho1984/blender-ai-copilot-studio",
+    "stars": 513,
+    "first_seen": "2026-11-16T05:52:10.277550+00:00",
+    "last_seen": "2026-11-16T05:52:10.277550+00:00",
+    "breakout_alerted": false
+  },
+  "gh_1458995234": {
+    "title": "centaurexecutorhonor/metatrader-ea-notes",
+    "stars": 99,
+    "first_seen": "2026-11-16T05:52:10.277550+00:00",
+    "last_seen": "2026-11-16T05:52:10.277550+00:00",
+    "breakout_alerted": false
+  },
+  "hn_50512441": {
+    "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+    "stars": 97,
+    "first_seen": "2026-11-16T05:52:10.277550+00:00",
+    "last_seen": "2026-11-16T05:52:10.277550+00:00",
+    "breakout_alerted": false
+  },
+  "ph_8f91e0caa3ef": {
+    "title": "collecto.rs",
+    "stars": 0,
+    "first_seen": "2026-11-16T05:52:10.277550+00:00",
+    "last_seen": "2026-11-16T05:52:10.277550+00:00",
+    "breakout_alerted": false
+  },
+  "hf_2611.18397": {
+    "title": "Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent",
+    "stars": 21,
+    "first_seen": "2026-11-16T05:52:10.277550+00:00",
+    "last_seen": "2026-11-16T05:52:10.277550+00:00",
+    "breakout_alerted": false
   }
 }
