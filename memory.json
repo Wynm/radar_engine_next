@@ -278,5 +278,19 @@
     "first_seen": "2026-11-16T05:52:10.277550+00:00",
     "last_seen": "2026-11-16T05:52:10.277550+00:00",
     "breakout_alerted": false
+  },
+  "ph_5d37bd5d0caa": {
+    "title": "readywhen",
+    "stars": 0,
+    "first_seen": "2026-11-16T15:25:40.692253+00:00",
+    "last_seen": "2026-11-16T15:25:40.692253+00:00",
+    "breakout_alerted": false
+  },
+  "hf_2611.12068": {
+    "title": "MIRIX-2.0: Multi-Agent Memory System",
+    "stars": 20,
+    "first_seen": "2026-11-16T15:25:40.692253+00:00",
+    "last_seen": "2026-11-16T15:25:40.692253+00:00",
+    "breakout_alerted": false
   }
 }
