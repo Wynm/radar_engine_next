@@ -376,5 +376,12 @@
     "first_seen": "2026-11-17T09:53:28.298953+00:00",
     "last_seen": "2026-11-17T09:53:28.298953+00:00",
     "breakout_alerted": false
+  },
+  "hn_50517321": {
+    "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+    "stars": 325,
+    "first_seen": "2026-11-17T10:14:26.797522+00:00",
+    "last_seen": "2026-11-17T10:14:26.797522+00:00",
+    "breakout_alerted": false
   }
 }
