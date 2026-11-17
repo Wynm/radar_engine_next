@@ -320,5 +320,61 @@
     "first_seen": "2026-11-17T01:47:23.058554+00:00",
     "last_seen": "2026-11-17T01:47:23.058554+00:00",
     "breakout_alerted": false
+  },
+  "gh_1461213325": {
+    "title": "halfsend-08/test-repo-07-mint-host",
+    "stars": 0,
+    "first_seen": "2026-11-17T09:53:28.298953+00:00",
+    "last_seen": "2026-11-17T09:53:28.298953+00:00",
+    "breakout_alerted": false
+  },
+  "gh_1461213203": {
+    "title": "VOfficial404/duet-translate",
+    "stars": 0,
+    "first_seen": "2026-11-17T09:53:28.298953+00:00",
+    "last_seen": "2026-11-17T09:53:28.298953+00:00",
+    "breakout_alerted": false
+  },
+  "gh_1460972128": {
+    "title": "hasnaat-anjum/hashtag-research-tool",
+    "stars": 0,
+    "first_seen": "2026-11-17T09:53:28.298953+00:00",
+    "last_seen": "2026-11-17T09:53:28.298953+00:00",
+    "breakout_alerted": false
+  },
+  "gh_1461213271": {
+    "title": "xcuz1999-beep/btc-race-24h-20261117-0603",
+    "stars": 0,
+    "first_seen": "2026-11-17T09:53:28.298953+00:00",
+    "last_seen": "2026-11-17T09:53:28.298953+00:00",
+    "breakout_alerted": false
+  },
+  "gh_1461162686": {
+    "title": "RoyyFound/btc-race-24h-20261117-0603",
+    "stars": 0,
+    "first_seen": "2026-11-17T09:53:28.298953+00:00",
+    "last_seen": "2026-11-17T09:53:28.298953+00:00",
+    "breakout_alerted": false
+  },
+  "hn_50529409": {
+    "title": "Show HN: Rindraw – drawing and animation app for iPad, iPhone and Mac",
+    "stars": 1,
+    "first_seen": "2026-11-17T09:53:28.298953+00:00",
+    "last_seen": "2026-11-17T09:53:28.298953+00:00",
+    "breakout_alerted": false
+  },
+  "ph_7e6858913f81": {
+    "title": "GlissTouch",
+    "stars": 0,
+    "first_seen": "2026-11-17T09:53:28.298953+00:00",
+    "last_seen": "2026-11-17T09:53:28.298953+00:00",
+    "breakout_alerted": false
+  },
+  "hf_2611.17110": {
+    "title": "SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models",
+    "stars": 9,
+    "first_seen": "2026-11-17T09:53:28.298953+00:00",
+    "last_seen": "2026-11-17T09:53:28.298953+00:00",
+    "breakout_alerted": false
   }
 }
