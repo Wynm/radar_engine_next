@@ -502,5 +502,19 @@
     "first_seen": "2026-11-18T00:50:13.861627+00:00",
     "last_seen": "2026-11-18T00:50:13.861627+00:00",
     "breakout_alerted": false
+  },
+  "hn_50546312": {
+    "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
+    "stars": 47,
+    "first_seen": "2026-11-18T15:27:14.950066+00:00",
+    "last_seen": "2026-11-18T15:27:14.950066+00:00",
+    "breakout_alerted": false
+  },
+  "hf_2611.17048": {
+    "title": "Beyond Answering: Learning to Speak First and Act in Streaming Video",
+    "stars": 32,
+    "first_seen": "2026-11-18T15:27:14.950066+00:00",
+    "last_seen": "2026-11-18T15:27:14.950066+00:00",
+    "breakout_alerted": false
   }
 }
