@@ -565,5 +565,40 @@
     "first_seen": "2026-11-19T15:33:38.372167+00:00",
     "last_seen": "2026-11-19T15:33:38.372167+00:00",
     "breakout_alerted": false
+  },
+  "gh_1464271688": {
+    "title": "bookwjitchieni1986/blender-ai-mcp-addon",
+    "stars": 511,
+    "first_seen": "2026-11-20T00:30:07.281703+00:00",
+    "last_seen": "2026-11-20T00:30:07.281703+00:00",
+    "breakout_alerted": false
+  },
+  "gh_1459211397": {
+    "title": "MikeCasallas/poe2-price-checker",
+    "stars": 153,
+    "first_seen": "2026-11-20T00:30:07.281703+00:00",
+    "last_seen": "2026-11-20T00:30:07.281703+00:00",
+    "breakout_alerted": false
+  },
+  "hn_50564159": {
+    "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+    "stars": 180,
+    "first_seen": "2026-11-20T00:30:07.281703+00:00",
+    "last_seen": "2026-11-20T00:30:07.281703+00:00",
+    "breakout_alerted": false
+  },
+  "ph_e83401f85efa": {
+    "title": "TestSprite 4.0",
+    "stars": 0,
+    "first_seen": "2026-11-20T00:30:07.281703+00:00",
+    "last_seen": "2026-11-20T00:30:07.281703+00:00",
+    "breakout_alerted": false
+  },
+  "hf_2611.17600": {
+    "title": "LightTAR: Light and Fast Target-Aware Representations for Multimodal Tabular Learning",
+    "stars": 20,
+    "first_seen": "2026-11-20T00:30:07.281703+00:00",
+    "last_seen": "2026-11-20T00:30:07.281703+00:00",
+    "breakout_alerted": false
   }
 }
