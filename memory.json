@@ -600,5 +600,26 @@
     "first_seen": "2026-11-20T00:30:07.281703+00:00",
     "last_seen": "2026-11-20T00:30:07.281703+00:00",
     "breakout_alerted": false
+  },
+  "hn_50574968": {
+    "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+    "stars": 333,
+    "first_seen": "2026-11-20T15:12:42.045489+00:00",
+    "last_seen": "2026-11-20T15:12:42.045489+00:00",
+    "breakout_alerted": false
+  },
+  "ph_b5febf64ad73": {
+    "title": "Volcano",
+    "stars": 0,
+    "first_seen": "2026-11-20T15:12:42.045489+00:00",
+    "last_seen": "2026-11-20T15:12:42.045489+00:00",
+    "breakout_alerted": false
+  },
+  "hf_2611.26590": {
+    "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
+    "stars": 30,
+    "first_seen": "2026-11-20T15:12:42.045489+00:00",
+    "last_seen": "2026-11-20T15:12:42.045489+00:00",
+    "breakout_alerted": false
   }
 }
