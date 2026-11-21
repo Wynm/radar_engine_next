@@ -649,5 +649,19 @@
     "first_seen": "2026-11-20T23:52:44.428530+00:00",
     "last_seen": "2026-11-20T23:52:44.428530+00:00",
     "breakout_alerted": false
+  },
+  "gh_1457605310": {
+    "title": "mankidev/antialgorithm",
+    "stars": 577,
+    "first_seen": "2026-11-21T06:38:16.352677+00:00",
+    "last_seen": "2026-11-21T06:38:16.352677+00:00",
+    "breakout_alerted": false
+  },
+  "hn_50583274": {
+    "title": "NINLIVE: The Nine Inch Nails live archive",
+    "stars": 206,
+    "first_seen": "2026-11-21T06:38:16.352677+00:00",
+    "last_seen": "2026-11-21T06:38:16.352677+00:00",
+    "breakout_alerted": false
   }
 }
