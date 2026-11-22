@@ -719,5 +719,33 @@
     "first_seen": "2026-11-22T06:06:12.879926+00:00",
     "last_seen": "2026-11-22T06:06:12.879926+00:00",
     "breakout_alerted": false
+  },
+  "gh_1466635339": {
+    "title": "EL4CTEO/fast-anything",
+    "stars": 1630,
+    "first_seen": "2026-11-22T19:19:27.987368+00:00",
+    "last_seen": "2026-11-22T19:19:27.987368+00:00",
+    "breakout_alerted": false
+  },
+  "gh_1459236880": {
+    "title": "Afabio2007/weekend-lottery-contract",
+    "stars": 153,
+    "first_seen": "2026-11-22T19:19:27.987368+00:00",
+    "last_seen": "2026-11-22T19:19:27.987368+00:00",
+    "breakout_alerted": false
+  },
+  "ph_b0b373ae9557": {
+    "title": "Daymaker",
+    "stars": 0,
+    "first_seen": "2026-11-22T19:19:27.987368+00:00",
+    "last_seen": "2026-11-22T19:19:27.987368+00:00",
+    "breakout_alerted": false
+  },
+  "hf_2611.26627": {
+    "title": "RL Post-Training in Diffusion Transformers Is Activation Steering",
+    "stars": 20,
+    "first_seen": "2026-11-22T19:19:27.987368+00:00",
+    "last_seen": "2026-11-22T19:19:27.987368+00:00",
+    "breakout_alerted": false
   }
 }
