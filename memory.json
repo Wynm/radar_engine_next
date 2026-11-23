@@ -782,5 +782,40 @@
     "first_seen": "2026-11-23T06:58:37.359155+00:00",
     "last_seen": "2026-11-23T06:58:37.359155+00:00",
     "breakout_alerted": false
+  },
+  "gh_1463683138": {
+    "title": "INK-Q/agy-fast",
+    "stars": 777,
+    "first_seen": "2026-11-23T23:41:33.494104+00:00",
+    "last_seen": "2026-11-23T23:41:33.494104+00:00",
+    "breakout_alerted": false
+  },
+  "gh_1469019913": {
+    "title": "mutex-gander/hyperliquid-perp-market-maker-bot",
+    "stars": 263,
+    "first_seen": "2026-11-23T23:41:33.494104+00:00",
+    "last_seen": "2026-11-23T23:41:33.494104+00:00",
+    "breakout_alerted": false
+  },
+  "hn_50615481": {
+    "title": "Kagi Mail (public beta)",
+    "stars": 314,
+    "first_seen": "2026-11-23T23:41:33.494104+00:00",
+    "last_seen": "2026-11-23T23:41:33.494104+00:00",
+    "breakout_alerted": false
+  },
+  "ph_6533afef460d": {
+    "title": "Gauth Personal Study Agent",
+    "stars": 0,
+    "first_seen": "2026-11-23T23:41:33.494104+00:00",
+    "last_seen": "2026-11-23T23:41:33.494104+00:00",
+    "breakout_alerted": false
+  },
+  "hf_2611.26954": {
+    "title": "Learning Video Foresight Reasoning from Unlabeled Videos via On-Policy Self-Distillation",
+    "stars": 20,
+    "first_seen": "2026-11-23T23:41:33.494104+00:00",
+    "last_seen": "2026-11-23T23:41:33.494104+00:00",
+    "breakout_alerted": false
   }
 }
