@@ -747,5 +747,40 @@
     "first_seen": "2026-11-22T19:19:27.987368+00:00",
     "last_seen": "2026-11-22T19:19:27.987368+00:00",
     "breakout_alerted": false
+  },
+  "gh_1460452633": {
+    "title": "pierridotite/mobile-agent-testers",
+    "stars": 855,
+    "first_seen": "2026-11-23T06:58:37.359155+00:00",
+    "last_seen": "2026-11-23T06:58:37.359155+00:00",
+    "breakout_alerted": false
+  },
+  "gh_1468321920": {
+    "title": "mykarenlo-work85/polymarket-trading-arbitrage-bot",
+    "stars": 275,
+    "first_seen": "2026-11-23T06:58:37.359155+00:00",
+    "last_seen": "2026-11-23T06:58:37.359155+00:00",
+    "breakout_alerted": false
+  },
+  "hn_50603845": {
+    "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+    "stars": 410,
+    "first_seen": "2026-11-23T06:58:37.359155+00:00",
+    "last_seen": "2026-11-23T06:58:37.359155+00:00",
+    "breakout_alerted": false
+  },
+  "ph_cd984bb08d0f": {
+    "title": "MeshLive",
+    "stars": 0,
+    "first_seen": "2026-11-23T06:58:37.359155+00:00",
+    "last_seen": "2026-11-23T06:58:37.359155+00:00",
+    "breakout_alerted": false
+  },
+  "hf_2611.27963": {
+    "title": "Non-penetrating World Models",
+    "stars": 38,
+    "first_seen": "2026-11-23T06:58:37.359155+00:00",
+    "last_seen": "2026-11-23T06:58:37.359155+00:00",
+    "breakout_alerted": false
   }
 }
