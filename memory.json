@@ -845,5 +845,19 @@
     "first_seen": "2026-11-24T09:24:48.886957+00:00",
     "last_seen": "2026-11-24T09:24:48.886957+00:00",
     "breakout_alerted": false
+  },
+  "gh_1467769720": {
+    "title": "erkamyaman/safe-anything",
+    "stars": 620,
+    "first_seen": "2026-11-24T22:12:27.619191+00:00",
+    "last_seen": "2026-11-24T22:12:27.619191+00:00",
+    "breakout_alerted": false
+  },
+  "ph_35214eab2433": {
+    "title": "Granular.Build",
+    "stars": 0,
+    "first_seen": "2026-11-24T22:12:27.619191+00:00",
+    "last_seen": "2026-11-24T22:12:27.619191+00:00",
+    "breakout_alerted": false
   }
 }
