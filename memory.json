@@ -817,5 +817,33 @@
     "first_seen": "2026-11-23T23:41:33.494104+00:00",
     "last_seen": "2026-11-23T23:41:33.494104+00:00",
     "breakout_alerted": false
+  },
+  "gh_1464795219": {
+    "title": "ThreatDefence/agentic-attack-detections",
+    "stars": 590,
+    "first_seen": "2026-11-24T09:24:48.886957+00:00",
+    "last_seen": "2026-11-24T09:24:48.886957+00:00",
+    "breakout_alerted": false
+  },
+  "gh_1469008002": {
+    "title": "lucast752/polymarket-trading-arbitrage-bot",
+    "stars": 141,
+    "first_seen": "2026-11-24T09:24:48.886957+00:00",
+    "last_seen": "2026-11-24T09:24:48.886957+00:00",
+    "breakout_alerted": false
+  },
+  "hn_50600838": {
+    "title": "C++26 is done (again): ISO C++ meeting trip report",
+    "stars": 125,
+    "first_seen": "2026-11-24T09:24:48.886957+00:00",
+    "last_seen": "2026-11-24T09:24:48.886957+00:00",
+    "breakout_alerted": false
+  },
+  "ph_4b466618618d": {
+    "title": "Claude Ship",
+    "stars": 0,
+    "first_seen": "2026-11-24T09:24:48.886957+00:00",
+    "last_seen": "2026-11-24T09:24:48.886957+00:00",
+    "breakout_alerted": false
   }
 }
