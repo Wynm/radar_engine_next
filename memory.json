@@ -880,5 +880,26 @@
     "first_seen": "2026-11-25T07:56:52.758061+00:00",
     "last_seen": "2026-11-25T07:56:52.758061+00:00",
     "breakout_alerted": false
+  },
+  "gh_1465322684": {
+    "title": "sous-labs/songe",
+    "stars": 850,
+    "first_seen": "2026-11-25T21:28:16.424894+00:00",
+    "last_seen": "2026-11-25T21:28:16.424894+00:00",
+    "breakout_alerted": false
+  },
+  "ph_543746c8acb6": {
+    "title": "eluna",
+    "stars": 0,
+    "first_seen": "2026-11-25T21:28:16.424894+00:00",
+    "last_seen": "2026-11-25T21:28:16.424894+00:00",
+    "breakout_alerted": false
+  },
+  "hf_2611.31358": {
+    "title": "Nemotron-Labs-VisualCreation: Pixel as Code for Agentic Visual Creation",
+    "stars": 80,
+    "first_seen": "2026-11-25T21:28:16.424894+00:00",
+    "last_seen": "2026-11-25T21:28:16.424894+00:00",
+    "breakout_alerted": false
   }
 }
