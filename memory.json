@@ -859,5 +859,26 @@
     "first_seen": "2026-11-24T22:12:27.619191+00:00",
     "last_seen": "2026-11-24T22:12:27.619191+00:00",
     "breakout_alerted": false
+  },
+  "gh_1469329665": {
+    "title": "Indigo-0167/universal-game-mod-manager",
+    "stars": 1069,
+    "first_seen": "2026-11-25T07:56:52.758061+00:00",
+    "last_seen": "2026-11-25T07:56:52.758061+00:00",
+    "breakout_alerted": false
+  },
+  "ph_2b3803afa050": {
+    "title": "distribution.dev",
+    "stars": 0,
+    "first_seen": "2026-11-25T07:56:52.758061+00:00",
+    "last_seen": "2026-11-25T07:56:52.758061+00:00",
+    "breakout_alerted": false
+  },
+  "hf_2611.25509": {
+    "title": "LingSante MedGuard Technical Report",
+    "stars": 26,
+    "first_seen": "2026-11-25T07:56:52.758061+00:00",
+    "last_seen": "2026-11-25T07:56:52.758061+00:00",
+    "breakout_alerted": false
   }
 }
