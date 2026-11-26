@@ -901,5 +901,33 @@
     "first_seen": "2026-11-25T21:28:16.424894+00:00",
     "last_seen": "2026-11-25T21:28:16.424894+00:00",
     "breakout_alerted": false
+  },
+  "gh_1471422729": {
+    "title": "alesha-pro/llm.asm",
+    "stars": 686,
+    "first_seen": "2026-11-26T07:48:28.893895+00:00",
+    "last_seen": "2026-11-26T07:48:28.893895+00:00",
+    "breakout_alerted": false
+  },
+  "gh_1470113582": {
+    "title": "Keith-web242/multicharts",
+    "stars": 200,
+    "first_seen": "2026-11-26T07:48:28.893895+00:00",
+    "last_seen": "2026-11-26T07:48:28.893895+00:00",
+    "breakout_alerted": false
+  },
+  "hn_50647673": {
+    "title": "The New York Times warns photographers not to update Photoshop over AI features",
+    "stars": 332,
+    "first_seen": "2026-11-26T07:48:28.893895+00:00",
+    "last_seen": "2026-11-26T07:48:28.893895+00:00",
+    "breakout_alerted": false
+  },
+  "hf_2611.34923": {
+    "title": "Mixture-of-Loops Transformer",
+    "stars": 25,
+    "first_seen": "2026-11-26T07:48:28.893895+00:00",
+    "last_seen": "2026-11-26T07:48:28.893895+00:00",
+    "breakout_alerted": false
   }
 }
