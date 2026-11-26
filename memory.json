@@ -929,5 +929,26 @@
     "first_seen": "2026-11-26T07:48:28.893895+00:00",
     "last_seen": "2026-11-26T07:48:28.893895+00:00",
     "breakout_alerted": false
+  },
+  "gh_1465556830": {
+    "title": "byttrade/free-crypto-trading-bot",
+    "stars": 59,
+    "first_seen": "2026-11-26T21:16:20.627308+00:00",
+    "last_seen": "2026-11-26T21:16:20.627308+00:00",
+    "breakout_alerted": false
+  },
+  "hn_50658191": {
+    "title": "Show HN: Fuck_data_brokers.py",
+    "stars": 89,
+    "first_seen": "2026-11-26T21:16:20.627308+00:00",
+    "last_seen": "2026-11-26T21:16:20.627308+00:00",
+    "breakout_alerted": false
+  },
+  "ph_8a8a110c334b": {
+    "title": "Ottante",
+    "stars": 0,
+    "first_seen": "2026-11-26T21:16:20.627308+00:00",
+    "last_seen": "2026-11-26T21:16:20.627308+00:00",
+    "breakout_alerted": false
   }
 }
